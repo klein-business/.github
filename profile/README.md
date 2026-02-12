@@ -65,7 +65,7 @@ Focusing on clean architecture, reliable automation, and practical engineering t
 ### Portfolio
 
 <details open>
-<summary><strong>📱 Consumer Products</strong></summary>
+<summary><strong>Consumer Products</strong></summary>
 <br>
 
 Native applications built for end-users across mobile, TV, and desktop platforms.
@@ -78,7 +78,7 @@ Native applications built for end-users across mobile, TV, and desktop platforms
 </details>
 
 <details open>
-<summary><strong>🏭 Enterprise & Commerce</strong></summary>
+<summary><strong>Enterprise & Commerce</strong></summary>
 <br>
 
 Scalable web platforms, e-commerce solutions, and digital transformation initiatives.
