@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Klein%20Business&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Digital%20Product%20Engineering%20%C2%B7%20Platforms%20%C2%B7%20AI%20Solutions&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Klein.Business&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Digital%20Product%20Engineering%20%C2%B7%20Platforms%20%C2%B7%20AI%20Solutions&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 [![Website](https://img.shields.io/badge/klein.business-0052cc?style=flat-square&logo=world&logoColor=white)](https://klein.business)
 [![Email](https://img.shields.io/badge/contact@klein.business-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@klein.business)
