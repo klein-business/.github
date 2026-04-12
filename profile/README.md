@@ -1,8 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:101827,100:0052cc&height=120&text=Digital%20Product%20Engineering&fontSize=28&fontColor=e6edf3&fontAlignY=42&desc=Platforms%20%C2%B7%20AI%20Tooling%20%C2%B7%20Cross-Platform%20Apps&descSize=14&descColor=8b949e&descAlignY=70" width="100%" />
+
 <div align="center">
-
-# klein.business
-
-**Digital Product Engineering / Platforms / AI Tooling**
 
 [![Website](https://img.shields.io/badge/klein.business-0052cc?style=for-the-badge&logoColor=white)](https://klein.business)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/klein-business)
