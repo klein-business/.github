@@ -40,6 +40,7 @@ Small team, opinionated stack, production-grade output.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white)
+![PL/I](https://img.shields.io/badge/PL%2FI-005A9C?style=flat-square&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 </td>
@@ -127,7 +128,7 @@ Small team, opinionated stack, production-grade output.
 
 We publish select libraries and tools. Contributions welcome.
 
-See our [contributing guidelines](CONTRIBUTING.md) and [security policy](SECURITY.md).
+See our [contributing guidelines](https://github.com/klein-business/.github/blob/main/CONTRIBUTING.md) and [security policy](https://github.com/klein-business/.github/blob/main/SECURITY.md).
 
 ---
 
