@@ -33,6 +33,8 @@ Compliance is part of the architecture, not of the sign-off.
 Contributions are welcome – see the [contributing guidelines](https://github.com/klein-business/.github/blob/main/CONTRIBUTING.md)
 and the [security policy](https://github.com/klein-business/.github/blob/main/SECURITY.md).
 
+[Website](https://www.klein.business) · [LinkedIn](https://www.linkedin.com/company/klein-business) · [contact@klein.business](mailto:contact@klein.business)
+
 <a href="https://www.klein.business/en/contact/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.png">
