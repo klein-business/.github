@@ -21,6 +21,7 @@ Compliance is part of the architecture, not of the sign-off.
 
 ### Open source
 
+<p>
 <a href="https://github.com/klein-business/legal-text-mcp-de"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/oss-legal-text-mcp-de-dark.png">
   <img alt="legal-text-mcp-de: MCP server, HTTP API and CLI for German federal and state legal texts with canonical IDs and cite-grade source provenance. Python." src="./assets/oss-legal-text-mcp-de-light.png" width="49%">
@@ -29,6 +30,7 @@ Compliance is part of the architecture, not of the sign-off.
   <source media="(prefers-color-scheme: dark)" srcset="./assets/oss-portable-agent-workflows-dark.png">
   <img alt="portable-agent-workflows: harness-agnostic agent workflows with shared skills, durable artifacts and review gates for Codex, Claude Code, Cursor and OpenCode. JavaScript." src="./assets/oss-portable-agent-workflows-light.png" width="49%">
 </picture></a>
+</p>
 
 Contributions are welcome – see the [contributing guidelines](https://github.com/klein-business/.github/blob/main/CONTRIBUTING.md)
 and the [security policy](https://github.com/klein-business/.github/blob/main/SECURITY.md).
